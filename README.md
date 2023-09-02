@@ -6,16 +6,20 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/monish-kumar-35424122a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="LinkedIn logo" />
   </a>
   <a href="https://twitter.com/your-twitter-profile">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="52" alt="Twitter logo" />
   </a>
 </div>
   
 - 👋 Hi, I’m Monish Kumar
-- 🎓 I am a student in Artificial Intelligence & Data Science.
+- 🎓 I am a college student in Artificial Intelligence & Data Science.
 - 💡 I am interested in projects involving AI and am keenly interested in computer vision.
 - ✨ Feel free to reach out to me at monish632004@gmail.com
 
 <h2> Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h3>
+  Programming skills
+  <img src ="https://example.com/c_icon.png" width=32px>
+</h3>
