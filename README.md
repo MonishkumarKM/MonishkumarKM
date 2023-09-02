@@ -1,6 +1,7 @@
 ### Hi there I'm Monsih Kumar 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+mate!;AI+developer+here)](https://git.io/typing-svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
