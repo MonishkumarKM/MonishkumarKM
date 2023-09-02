@@ -1,6 +1,6 @@
 ### Hi there I'm Monsih Kumar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+mate;)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
