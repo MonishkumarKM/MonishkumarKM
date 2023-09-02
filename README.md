@@ -1,6 +1,5 @@
 ### Hi there I'm Monsih Kumar 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+mate!;AI+developer+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=30&duration=4000&pause=900&color=FFFFFFC0&center=true&width=435&lines=Hi+there+mate!!!!;AI+developer+here;Lets+enjoy+the+world+of+Development)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
