@@ -1,6 +1,6 @@
 ### Hi there I'm Monish Kumar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=30&duration=4000&pause=900&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fjalla+One&size=30&duration=4000&pause=900&color=B4EAF7&width=435&lines=Hi+there+Mate!!!;I'm+Monish+kumar;AI+Developer+here;Let's+enjoy+the+world+of+AI)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
