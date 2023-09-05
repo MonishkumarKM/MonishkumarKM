@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/monish-kumar-35424122a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.instagram.com/https://www.instagram.com/_monish_06_/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" width="52" alt="Instagram Logo" />
-</a>
   <a href="https://twitter.com/https://twitter.com/monish632004">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="52" alt="Twitter logo" />
   </a>
