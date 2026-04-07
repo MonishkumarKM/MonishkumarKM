@@ -14,7 +14,6 @@
 </div>
   
 - 👋 Hi, I’m Monish Kumar
-- 🎓 I am a college student in Artificial Intelligence & Data Science.
 - 💡 I am interested in projects involving AI and am keenly interested in computer vision.
 - ✨ Feel free to reach out to me at monish632004@gmail.com
 
